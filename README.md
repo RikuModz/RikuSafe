@@ -1,0 +1,2 @@
+# RikuSafe
+rikusafejs
